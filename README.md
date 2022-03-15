@@ -70,10 +70,10 @@ MSE = Squared Mean MAE = MAE*MAE/ Total number of values
 Root Mean Squared error is the mean over the square root of MSE.
 RMSE = Mean square root of MSE/ Total number of values
 
-Evaluation Tools	Random Forest	Decision Tree	LightGBM
-Mean Absolute Error	175.2962707	191.0353442	167.403614
-Mean Squared Error	531471.2238	727315.4806	477507.295
-R Squared Error	729.0207293	852.8279314	691.019026
+Evaluation Tools:
+Mean Absolute Error	
+Mean Squared Error	
+R Squared Error	
 
 # 7.	Conclusion
 From Loading the datatsets to cleaning, we applied feature selection and modelling on our dataset. We tried to obtain an accurate score for our dependent variables.
